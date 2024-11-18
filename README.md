@@ -1,15 +1,14 @@
 ## Hi there 👋
-
-- 🧑‍🎓 I’m currently a MEng student at University of Waterloo
-- 🌱 I’m currently learning backend and full-stack
+- 🧑‍🎓 I'm currently a MEng student at University of Waterloo
+- 🌱 I'm currently learning backend and full-stack
 - 👨‍💻 I'm passionate about building user-friendly web applications
 
 ### 🎯 Current Focus
 - Enhancing full-stack development skills through MERN stack projects
 - Exploring cloud services with AWS platform
 - Building scalable web applications with modern frameworks
-- Implementing user-friendly interfaces and responsive designs
-- Exploring microservices architecture
+- Developing high-performance middleware and API gateways
+- Exploring microservices architecture 
 - Contributing to open-source projects
 
 ### Technology Stack
@@ -28,6 +27,7 @@
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yulong-zhou-ba3954308/)
 
+<!--
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=JulianZ-CD&show_icons=true&theme=react&count_private=true" height="150" style="margin-right: 10px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianZ-CD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&hide=Jupyter%20Notebook,HTML" height="150" alt="languages graph" />
@@ -41,3 +41,4 @@
 <a href="https://github.com/JulianZ-CD/MERN-Household-Inventory-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianZ-CD&repo=MERN-Household-Inventory-App&theme=react" />
 </a>
+-->
